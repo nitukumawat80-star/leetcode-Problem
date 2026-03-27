@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0151-reverse-words-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
