@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0088-merge-sorted-array) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nitukumawat80-star/leetcode-Problem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
